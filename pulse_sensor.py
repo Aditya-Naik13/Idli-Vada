@@ -1,4 +1,3 @@
-
 import Adafruit_ADS1x15
 import serial
 import time
